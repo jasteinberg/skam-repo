@@ -1,0 +1,19 @@
+# byte-compiled / caches
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# generated experiment outputs (regenerate with `python -m figures run`)
+results/
+
+# environments / editors
+.venv/
+.env
+.DS_Store
+
+# local scratch
+scripts/local/
+logs/
+figures/out/
+.mypy_cache/
+.pytest_cache/
